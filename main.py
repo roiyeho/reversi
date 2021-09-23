@@ -10,3 +10,5 @@ elif mode == 3:
     print("You've chosen to play online")
 else:
     print("You've entered an invalid option")
+    
+print("Goodbye")
