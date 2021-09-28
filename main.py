@@ -11,4 +11,4 @@ elif mode == 3:
 else:
     print("You've entered an invalid option")
     
-print("Goodbye")
+print("Goodbye, see you in the next game")
