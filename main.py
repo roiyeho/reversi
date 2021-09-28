@@ -11,4 +11,4 @@ elif mode == 3:
 else:
     print("You've entered an invalid option")
     
-print("Goodbye")
+print("Goodbye. Please give us your feedback on the game at reversi@gmail.com")
